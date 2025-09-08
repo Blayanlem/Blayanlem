@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is where I do my heavy coding, from the assignmets that are from University Malaya, with the addition of my final year project
+This is where I put all my heavy coding, with some projects
 
 <!--
 **Blayanlem/Blayanlem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
