@@ -1,5 +1,5 @@
 ## Hi there 👋
-Bryan testing on Github
+This is where I do my heavy coding, from the assignmets that are from University Malaya, with the addition of my final year project
 
 <!--
 **Blayanlem/Blayanlem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
